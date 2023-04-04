@@ -1,6 +1,6 @@
-# Business Application
+# Hospital Management System
 
-This repository contains the source code and necessary text files for my business application, which is designed to streamline business processes and improve productivity. The application was developed using C++ and features powerful features like parallel arrays and file handling in CSV format.
+This repository contains the source code and necessary text files for my business application, which is designed to streamline hospital processes and improve productivity. The application was developed using C++ and features powerful features like parallel arrays and file handling in CSV format.
 
 ## Features
 
